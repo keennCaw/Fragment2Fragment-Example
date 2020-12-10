@@ -1,0 +1,2 @@
+rootProject.name='FragmentToFragment ViewModel'
+include ':app'
